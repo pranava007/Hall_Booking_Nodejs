@@ -1,0 +1,19 @@
+{
+  "name": "hall_booking_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "pranavamuthu",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
